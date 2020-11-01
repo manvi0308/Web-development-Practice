@@ -5,9 +5,7 @@ Used : HTML<br>
        CSS<br>
        Javascript<br>
        
-**Projects included in Repo : **
-
-<br>
+**Projects included in Repo** <br>
 1) Analog Clock <br>
 2) Animated Car<br>
 3) Calculator<br>
@@ -23,3 +21,6 @@ Extensions -> Search Live Server -> Install).And you have this extension now up 
 
 Step 3) Star the Repo if you like it<br>
 Step 4) Go ahead and make some changes to code, make an issue along with relevant details like functionality added, screenshots of the new look and so on.<br>
+
+** The Repo is under continuous maintenance and i regularly update some relevant projects to it **
+
