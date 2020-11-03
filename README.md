@@ -1,10 +1,10 @@
 # Web-development-Practice
 
 #### This repository is a collection of web development practice done by me. <br>
-Used : HTML<br>
-       CSS<br>
-       Javascript<br>
-       
+Used : ![](https://img.shields.io/badge/WebDev-HTML%7C%20CSS%20%7C%20Javascript-yellow)
+
+
+
 **Projects included in Repo** <br>
 1) Analog Clock <br>
 2) Animated Car<br>
