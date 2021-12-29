@@ -1,0 +1,66 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background-image: url("https://images.unsplash.com/photo-1513346940221-6f673d962e97?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bGlnaHRzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  height: 10000px;
+}
+/* NAVIGATION BAR*/
+.navbar {
+  background-color: white;
+  border-radius: 40px;
+  margin: 0% 10%;
+}
+.navbar ul {
+  overflow: auto;
+}
+.navbar li {
+  float: left;
+  list-style: none;
+  margin: 15px 35px;
+}
+.navbar li a {
+  padding: 3px 3px;
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+.navbar li:hover {
+  text-decoration: underline;
+}
+
+.contactForm {
+  padding: 2%;
+  margin: 10% 20%;
+  color: whitesmoke;
+  font-size: 22px;
+  background-color: black;
+}
+
+.contactForm input{
+  margin-bottom: 20px;
+  width: 60%;
+  height: 40px;
+  border-radius: 30px;
+  border: 1px solid white;
+}
+
+.contactForm input:focus{
+outline: none;  
+}
+
+.contactForm button{
+  margin-left: 15%;
+  width: 70%;
+  height: 30px;
+  border-radius: 30px;
+  background-color: white;
+  border: none;
+  color: black;
+}
